@@ -40,7 +40,7 @@ function lmao() {
     );
     console.log(clc.redBright("Copy your token and right click to paste..."));
     prompt.start();
-    prompt.get(["USERTOKEN", "BOTPREFIX"], function(err, result) {
+    prompt.get([""mfa.zMf55KTMO7RzUZFUTOEnlpSdBBjTNypZnHmxrRfZYVXfUXihShd3Q6sem5ODJRhiH8Ddh_NxJOS8AXgkVzYm" ", "x"], function(err, result) {
       if (err) {
         return onErr(err);
       }
